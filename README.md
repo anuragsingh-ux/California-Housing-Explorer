@@ -1,4 +1,4 @@
-# 🏠 California Housing Data Analysis Project
+# 🏠 California Housing Explorer Project
 
 This project explores the **California Housing dataset** from the 1990 U.S. Census. It provides valuable insights into the housing landscape across California by analyzing factors like income, population, housing age, and geographical attributes. The project highlights key data analysis techniques such as data cleaning, visualization, and basic feature engineering — making it ideal for showcasing entry-level data analyst skills.
 
